@@ -120,7 +120,6 @@
 &kp ESCAPE  &mo 6  &kp Z     &kp X        &kp C  &kp V  &trans  &trans  &trans  &trans  &trans  &trans
                             &kp LCTRL  &kp LEFT_ALT  &trans  &trans  &trans  &trans
             >;
-
         };
 
         Gaming+ {
@@ -131,7 +130,6 @@
 &kp TAB         &to 0        &trans        &trans  &kp NUMBER_6  &kp NUMBER_7  &trans  &trans  &trans  &trans           &trans  &kp LA(F4)
                                             &kp J         &kp I         &kp M  &trans  &trans  &trans
             >;
-
         };
     };
 };
