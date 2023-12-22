@@ -113,6 +113,7 @@
         };
 
         Gaming {
+            label = "Gaming";
             bindings = <
             &kp LSHIFT  &kp Q     &kp W        &kp E  &kp R  &trans  &trans  &trans  &trans  &trans
              &kp G   &kp A      &kp S         &kp D   &kp F  &trans  &trans  &trans  &trans  &trans
@@ -120,10 +121,10 @@
                             &kp LCTRL  &kp LEFT_ALT  &trans  &trans  &trans  &trans
             >;
 
-            label = "Gaming";
         };
 
         Gaming+ {
+            label = "Gameplus";
             bindings = <
          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &trans  &trans  &trans  &trans  &kp LC(RA(DEL))
                 &kp L         &kp O         &kp Y         &kp K         &kp G  &kp F5  &trans  &trans  &trans           &trans
@@ -131,7 +132,6 @@
                                             &kp J         &kp I         &kp M  &trans  &trans  &trans
             >;
 
-            label = "Gaming+";
         };
     };
 };
